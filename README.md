@@ -89,10 +89,6 @@ CyberLearn/
 ### Setup Instructions
 
 1. **Clone the repository**
-   \`\`\`bash
-   git clone https://github.com/yourusername/cyberlearn.git
-   cd cyberlearn
-   \`\`\`
 
 2. **Setup the Database**
    - Create a new MySQL database
