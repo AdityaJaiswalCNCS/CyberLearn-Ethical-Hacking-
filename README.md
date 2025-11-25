@@ -169,30 +169,6 @@ The application uses the following main tables:
 - Mobile application
 - AI-powered course recommendations
 
-## Contributing
-
-Contributions are welcome! Please follow these guidelines:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, email support@cyberlearn.com or open an issue on GitHub.
-
 ## Author
 
-CyberLearn Development Team
-
----
-
-**Last Updated:** November 2025
-\`\`\`
-
-I've created a comprehensive README.md file for your CyberLearn GitHub repository. It includes the project overview, complete feature list, tech stack details, project structure, step-by-step installation instructions, usage guidelines for both students and admins, database schema information, and future enhancement ideas. The README is professionally formatted with clear sections and includes all necessary information for developers to understand and contribute to the project.
+ © Aditya Kumar Jaiswal
