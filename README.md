@@ -165,6 +165,35 @@ The application uses the following main tables:
 - Mobile application
 - AI-powered course recommendations
 
-## Author
+  ## ⭐ Modern Upgrade Version (As per GUVI Review Requirement)
 
- © Aditya Kumar Jaiswal
+A new modern version of CyberLearn has been added using full-stack industry-standard technologies to ensure scalability, modularity, and secure lab execution.
+
+### Upgrade Summary
+| Component | Technology |
+|----------|------------|
+| Backend | Spring Boot REST API |
+| Frontend | React |
+| Practice Labs | Docker sandbox containers |
+
+### Location in Repository
+/v2-modern-upgrade/
+├── backend-springboot/
+├── frontend-react/
+└── docker-labs/
+
+yaml
+Copy code
+
+### Purpose of Upgrade
+- Decouples backend and frontend for cleaner architecture
+- Improves maintainability and industry readiness
+- Enables safe and isolated hacking labs using Docker
+- Included to fully satisfy GUVI reviewer feedback
+
+⚠ The original JSP/Servlet project remains untouched for academic review — the **V2 modern upgrade is an additional enhancement**.
+
+---
+
+## 👤 Author
+© Aditya Kumar Jaiswal
